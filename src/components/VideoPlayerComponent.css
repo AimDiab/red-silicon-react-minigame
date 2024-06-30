@@ -1,0 +1,12 @@
+div.video-player-container {
+    position: absolute;
+    right: 200px;
+    top: 30px;
+}
+
+video {
+    padding: 0px;
+    margin: 0px;
+    border: 2px solid red;
+    box-shadow: 3px 3px 3px 3px rgba(0,0,0, 0.5);
+}

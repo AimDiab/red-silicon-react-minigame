@@ -1,0 +1,9 @@
+div.directory-container {
+    text-align: left;
+    padding: 4px;
+    border: 2px solid #888;
+}
+
+ul {
+    list-style-type: none;
+}
